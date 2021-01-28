@@ -1,4 +1,4 @@
-# Game.Tv Assignmeny #
+# Game.Tv Assignment #
 
 
 ## Key Features
@@ -12,4 +12,4 @@
 - Java 8
 
 ## Output Image
-[![Output](src/test/resources/Excel/GamesList.JPG)]
+![Output](src/test/resources/Excel/GamesList.JPG)
