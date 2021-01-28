@@ -1,7 +1,7 @@
 # Game.Tv Assignment #
 
 
-## Key Features
+## Execution Steps
 - **Clone the repository**
 - **Import and project in any IDE**
 - **Open pom.xml and do CTRL+S this will install all dependency**
